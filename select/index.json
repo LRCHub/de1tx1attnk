@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "恋色エナジー",
+  "base_artist": "中野有香 (CV: 下地紫野)",
+  "createdAt": "2026-03-01T12:13:52.857616Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋色エナジー",
+      "artist": "中野有香 (CV: 下地紫野)",
+      "has_synced": false,
+      "path": "select/01_恋色エナジー_中野有香_(CV__下地紫野).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋色エナジー (オリジナル・カラオケ)",
+      "artist": "中野有香(CV:下地紫野)",
+      "has_synced": false,
+      "path": "select/02_恋色エナジー_(オリジナル・カラオケ)_中野有香(CV_下地紫野).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋色エナジー",
+      "artist": "中野有香 (CV.下地紫野)",
+      "has_synced": false,
+      "path": "select/03_恋色エナジー_中野有香_(CV.下地紫野).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恋色エナジー",
+      "artist": "下地紫野",
+      "has_synced": false,
+      "path": "select/04_恋色エナジー_下地紫野.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "恋色エナジー (オリジナル・カラオケ)",
+      "artist": "中野有香",
+      "has_synced": false,
+      "path": "select/05_恋色エナジー_(オリジナル・カラオケ)_中野有香.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "恋色エナジー",
+      "artist": "中野有香",
+      "has_synced": false,
+      "path": "select/06_恋色エナジー_中野有香.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋色エナジー",
+      "artist": "中野有香 (下地紫野)",
+      "has_synced": false,
+      "path": "select/pl_01_恋色エナジー_中野有香_(下地紫野).txt"
+    }
+  ]
+}
