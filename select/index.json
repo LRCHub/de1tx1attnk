@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "恋色エナジー",
   "base_artist": "中野有香 (CV: 下地紫野)",
-  "createdAt": "2026-03-01T12:13:52.857616Z",
+  "createdAt": "2026-03-02T13:58:18.816104Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -56,9 +56,9 @@
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "恋色エナジー",
-      "artist": "中野有香 (下地紫野)",
+      "artist": "中野有香(CV:下地紫野)",
       "has_synced": false,
-      "path": "select/pl_01_恋色エナジー_中野有香_(下地紫野).txt"
+      "path": "select/pl_01_恋色エナジー_中野有香(CV_下地紫野).txt"
     }
   ]
 }
